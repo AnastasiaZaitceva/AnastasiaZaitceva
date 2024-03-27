@@ -1,22 +1,20 @@
-### Hi there, I'm Anastasia Zaitceva 👋
+### Привет, я Анастасия 👋
 
-## I'm a Data Scientist!
-- 🔭 I have just completed Yandex courses
-- 🥅 My current goal is to join a team where I can leverage my existing knowledge, contribute value, and continue to grow by learning from more experienced colleagues.
+За плечами 10 месяцев использования Python для анализа данных, реализованы проекты по построению моделей машинного обучения. [Смотреть проекты](https://github.com/AnastasiaZaitceva/Portfolio)
 
-I have 10 months of experience using Python for data analysis. I have implemented projects involving machine learning model development. [View my projects](https://github.com/AnastasiaZaitceva/Portfolio)
+Навыки в машинном обучении - препроцессинг данных, feature engineering и feature selection, базовые алгоритмы (деревья, регрессия, градиентные бустинги и др.), нейронные сети, оценка моделей.
 
-Machine learning skills include data preprocessing, feature engineering, and feature selection, proficiency in basic algorithms (such as decision trees, regression, gradient boosting, etc.), neural networks, and model evaluation.
+Навыки в анализе данных - статистика, поиск аномалий, выявление закономерностей, проверка гипотез.
 
-Data analysis skills include statistics, anomaly detection, pattern recognition, and hypothesis testing.
+🥅 Моя цель сейчас - присоединиться к команде, где я смогу принести пользу с имеющимися знаниями и продолжить рост, учась у более опытных коллег.
 
-###### Languages:
+###### Языки:
 Python, PostgreSQL
 
-###### Tools: 
-Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, LightGBM, Catboost, TensorFlow, Keras, shap, phik
+###### Технический стек: 
+Pandas, Numpy, Matplotlib, Seaborn, Sklearn, LightGBM, Catboost, XGBoost, TensorFlow, Keras, SciPy, Phik, Shap
 
-### Connect with me: 
+### Связаться со мной: 
 [<img align="left" alt="Zaitseva_AA | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/Zaitseva_AA)
 
 
