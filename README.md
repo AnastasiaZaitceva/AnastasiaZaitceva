@@ -8,7 +8,7 @@
 Python, PostgreSQL
 
 ###### Tools: 
-Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, LightGBM, Catboost, TensorFlow, Keras
+Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, LightGBM, Catboost, TensorFlow, Keras, shap, phik
 
 Having 10 months of experience utilizing Python for data analysis, I have completed projects involving machine learning model development. [View my projects](https://github.com/AnastasiaZaitceva/Portfolio)
 
@@ -18,6 +18,8 @@ Data analysis skills include statistics, anomaly detection, pattern recognition,
 
 ### Connect with me: 
 [<img align="left" alt="Zaitseva_AA | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+[telegram]: [https://yandex.ru/](https://t.me/Zaitseva_AA)https://t.me/Zaitseva_AA
 
 
 
