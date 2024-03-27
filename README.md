@@ -10,7 +10,7 @@ Python, PostgreSQL
 ###### Tools: 
 Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, LightGBM, Catboost, TensorFlow, Keras, shap, phik
 
-Having 10 months of experience utilizing Python for data analysis, I have completed projects involving machine learning model development. [View my projects](https://github.com/AnastasiaZaitceva/Portfolio)
+I have 10 months of experience using Python for data analysis. I have implemented projects involving machine learning model development. [View my projects](https://github.com/AnastasiaZaitceva/Portfolio)
 
 Machine learning skills include data preprocessing, feature engineering, and feature selection, proficiency in basic algorithms (such as decision trees, regression, gradient boosting, etc.), neural networks, and model evaluation.
 
