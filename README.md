@@ -7,7 +7,7 @@
 Навыки в анализе данных - статистика, поиск аномалий, выявление закономерностей, проверка гипотез.
 
 ###### Языки:
-Python, PostgreSQL
+Python, SQL
 
 ###### Технический стек: 
 Pandas, Numpy, Matplotlib, Seaborn, Sklearn, LightGBM, Catboost, XGBoost, TensorFlow, Keras, SciPy, Phik, Shap
